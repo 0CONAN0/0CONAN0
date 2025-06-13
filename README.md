@@ -10,8 +10,8 @@ Welcome to my GitHub! I'm a passionate developer on a mission to become a **full
 - 🤝 Open to collaboration on: **Open-source projects, web apps, and SaaS tools**
 - 🧠 Seeking mentorship in: **Backend architecture, DevOps, and advanced system design**
 - 🧰 Skilled in: **Web development, Git, GitHub workflows, and building scalable apps**
-- 📬 Reach me at: **[Insert Email or Contact Link]**
-- ⚡ Fun fact: I run a business called [**GlowCrylic**](https://www.instagram.com/glowcrylic) and I’m working hard to take my coding career to Germany.
+- 📬 Reach me at: **[abdelhameed626@gmail.com]**
+- ⚡ Fun fact: I run a business called [**GlowCrylic**](https://www.instagram.com/glowcrylic_1) and I’m working hard to take my coding career to Germany.
 
 ---
 
